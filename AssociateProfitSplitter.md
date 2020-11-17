@@ -27,4 +27,4 @@
 
 ## The transaction amounts are reflected in the ledger.
 
-![Ledger](Images/lTransaction_confirmed.png)
+![Ledger](Images/Transaction_confirmed.png)
