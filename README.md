@@ -10,11 +10,12 @@ This will accept Ether into the contract and divide the Ether evenly among the a
 Kovan Smart Contract Address
 0x7e59531267edf93f85079508795aedab61019199
 
-TieredProfitSplitter Smart Contract:
+2. TieredProfitSplitter Smart Contract:
 This will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, CEO @ 60%, CTO @ 25%, and base-level employee @ 15%.
 Kovan Smart Contract Address
 0x8271cc94174b75785861913d6eb6da1c543e90f3
 
-DefferedEquityPlan:
-This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
-No contract address as this was not deployed.
+3. DefferedEquityPlan:
+This contract will automatically manage an employee's "deferred equity incentive plan" in which 1000 shares (with an annual distribution of 250) will be distributed over 4 years for a single employee.
+Kovan Smart Contract Address
+0x15B0A05287F977b715e443cD56cb8cbF898ae013
